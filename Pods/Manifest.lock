@@ -1,0 +1,16 @@
+PODS:
+  - AWSCore (2.4.5)
+  - AWSKinesis (2.4.5):
+    - AWSCore (= 2.4.5)
+
+DEPENDENCIES:
+  - AWSCore (= 2.4.5)
+  - AWSKinesis (= 2.4.5)
+
+SPEC CHECKSUMS:
+  AWSCore: 2f356385bcea9b81ea47f9be0228c71697d9597d
+  AWSKinesis: fa2b1dc658295c1b4ee246a0f684dcaab078d585
+
+PODFILE CHECKSUM: ae7359e9ee11d45b2092309c658e0bcce68db729
+
+COCOAPODS: 1.2.0
